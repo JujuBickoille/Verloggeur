@@ -1,0 +1,3 @@
+
+def toto():
+	print "toto()"
